@@ -2,7 +2,7 @@
 
 # Hello, I'm Young Seo👏
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/seozero00)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseozero00&count_bg=%23F29A9AE7&title_bg=%23F68383&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)(https://github.com/seozero00)
 
 <img src="https://i.namu.wiki/i/hy-7UA_ryikUeAzhhIK3pkOcYlrSaDX1hmi3SfvCDS6ilG58S77zLZZAtRtj-Q4jT61HSF669_9waeZ33RoBTg.gif" />
 
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-FFD700?style=flat-square&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-FF69B4?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MATLAB-00FF7F?style=flat-square&logo=MATLAB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MATLAB-B0E57C?style=flat-square&logo=Mathworks&logoColor=white"/>
 </div>
 
 ## ✨ Contact Me ✨
