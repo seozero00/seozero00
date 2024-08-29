@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/seozero00)
 
-<img src="https://i.namu.wiki/i/lz2kzxpzsI6bkOgcLxP9KV5RVoR7lkJa4vhoD8DcCoBjPJvzJNt2wp3s0iQHkftHrn4XE5ZnY5hDdX7dZs6vaw.mp4" />
+<img src="https://i.namu.wiki/i/hy-7UA_ryikUeAzhhIK3pkOcYlrSaDX1hmi3SfvCDS6ilG58S77zLZZAtRtj-Q4jT61HSF669_9waeZ33RoBTg.gif" />
 
 ## ✨ Tech Stack ✨
 
