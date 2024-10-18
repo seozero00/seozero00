@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/C-E34F26?style=flat-square&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-FF69B4?style=flat-square&logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/MATLAB-A6D785?style=flat-square&logo=MathWorks&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </div>
 
 ## ✨ Contact Me ✨
