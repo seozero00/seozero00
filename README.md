@@ -2,7 +2,7 @@
 
 # Hello, I'm Young Seo👏
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseozero00&count_bg=%23F29A9AE7&title_bg=%23F68383&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/seozero00)
+[![Hits](https://hits.sh/github.com/seozero00.svg?style=flat-square&label=Hits&color=F68383&labelColor=F29A9A)](https://hits.sh/github.com/seozero00/)
 
 <img src="https://i.namu.wiki/i/hy-7UA_ryikUeAzhhIK3pkOcYlrSaDX1hmi3SfvCDS6ilG58S77zLZZAtRtj-Q4jT61HSF669_9waeZ33RoBTg.gif" />
 
