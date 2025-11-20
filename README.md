@@ -25,5 +25,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seozero00&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seozero00&layout=compact)](https://github.com/seozero00/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=seozero00&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
