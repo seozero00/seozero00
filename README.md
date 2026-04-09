@@ -2,11 +2,11 @@
 
 I'm **Young Seo**, an M.S. student in Aerospace Engineering.
 
-- 🔭  Currently researching visual-inertial navigation for GNSS-denied UAV systems
+- Currently researching visual-inertial navigation for GNSS-denied UAV systems
 
 ---
 
-### 🔬 Research Interests
+### 🔭 Research Interests
 - Flight Dynamics & Control
 - Vision-based Localization (VIO, VPR, etc.)
 - State Estimation and Sensor Fusion
@@ -14,7 +14,7 @@ I'm **Young Seo**, an M.S. student in Aerospace Engineering.
 
 ---
 
-### 📫 Feel free to connect with me here:
+### 📫 Connect me
 [![Gmail Badge](https://img.shields.io/badge/seozero@o.cnu.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:seozero@o.cnu.ac.kr)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/young-seo-4213942a5/)](https://linkedin.com/in/young-seo-4213942a5/)
 
